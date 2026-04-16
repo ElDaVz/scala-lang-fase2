@@ -16,8 +16,7 @@ object Main {
     println("Notas que cumplen el criterio: " + notasAprobadas)
 
     val resumen = ("Fase 2", 100.0)
-    println("Estado de la " + resumen._1 + " con punteo ideal de: " + resumen._2)
+    println("Estado de la " + resumen._1 + " con punteo ideal de: " + resumen._2 + "estado: " + entregaCompletada)
   }
-
 }
 
