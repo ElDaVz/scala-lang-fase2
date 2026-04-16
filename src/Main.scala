@@ -18,5 +18,6 @@ object Main {
     val resumen = ("Fase 2", 100.0)
     println("Estado de la " + resumen._1 + " con punteo ideal de: " + resumen._2)
   }
+
 }
 
